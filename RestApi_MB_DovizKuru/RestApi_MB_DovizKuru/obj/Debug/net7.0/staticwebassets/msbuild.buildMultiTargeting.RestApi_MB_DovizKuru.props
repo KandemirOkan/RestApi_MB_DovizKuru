@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RestApi_MB_DovizKuru.props" />
+</Project>
